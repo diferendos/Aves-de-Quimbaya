@@ -1,9 +1,180 @@
 [Documentation of all 175 bird species would be structured here]
 
-1. **Alcaraván común (Vanellus chilensis)**: Details about the species...
-2. **Anambé cinéreo (Pachyramphus rufus)**: Details about the species...
-3. **Anambé negro (Pachyramphus polychopterus)**: Details about the species...
-4. **Arañero Cara Negra (Geothlypis aequinoctialis)**: Details about the species...
-5. **Arañero Cejiblanco (Conirostrum albifrons)**: Details about the species...
+1.	**Alcaraván común (Vanellus chilensis)**
+2.	**Anambé cinéreo o Cabezón cinéreo (Pachyramphus rufus)**
+3.	**Anambé negro o Cabezón aliblanco (Pachyramphus polychopterus)**
+4.	**Arañero Cara Negra (Geothlypis aequinoctialis)**
+5.	**Arañero Cejiblanco (Conirostrum albifrons)**
+6.	**Arañero Ribereño o Reinita Culiparda (Myiothlypis rivularis)**
+7.	**Atrapamoscas Cabecinegro (Myiarchus tuberculifer)**
+8.	**Atrapamoscas Canelo (Myiarchus crinitus)**
+9.	**Atrapamoscas oriental (Contopus virens)**
+10.	**Atrapamoscas Pechirrayado (Myiophobus fasciatus)**
+11.	**Atrapamoscas Pirata (Legatus leucophaius)**
+12.	**Azulejo Común (Thraupis episcopus)**
+13.	**Azulejo Palmero o Tángara Palmera (Thraupis palmarum)**
+14.	**Azulón Ultramarino o Indigo (Passerina cyanea)**
+15.	**Barranquero amazónico (Momotus momota)**
+16.	**Barranquero andino (Momotus aequatorialis)**
+17.	**Batará Carcajada (Thamnophilus melanothorax)**
+18.	**Batará Mayor (Taraba major)**
+19.	**Bichofué o Bienteveo común (Pitangus sulphuratus)**
+20.	**Bienteveo alicastaño (Myiozetetes cayanensis)**
+21.	**Bienteveo Cabecigrís (Myiozetetes granadensis)**
+22.	**Búho de anteojos (Pulsatrix perspicillata)**
+23.	**Cabezón Canelo (Pachyramphus castaneus)**
+24.	**Mosquero adronado (Myiotriccus ornatus)**
+25.	**Canario coronado (Sicalis flaveola)**
+26.	**Capuchino tricolor (Lonchura malacca)**
+27.	**Cardenal mosquerito o Titiribí pechirrojo (Pyrocephalus rubinus)**
+28.	**Carpintero Abado o Coronirrojo (Melanerpes rubricapillus)**
+29.	**Carpintero amarillo o moteado (Colaptes punctigula)**
+30.	**Carpintero colombiano o Carpinterito Punteado (Picumnus granadensis)**
+31.	**Carpintero real (Dryocopus lineatus)**
+32.	**Carpintero marcial (Campephilus melanoleucos)**
+33.	**Chamicero (Synallaxis azarae)**
+34.	**Chamicero Pálido (Synallaxis albescens)**
+35.	**Chamicero piscuís (Synallaxis subpudica)**
+36.	**Chamón común (Molothrus bonariensis)**
+37.	**Chipe amarillo o Reinita dorada (Setophaga petechia)**
+38.	**Chipe azul olivo o Reinita Tropical (Setophaga pitiayumi)**
+39.	**Chipe azulcielo o Reinita cerúlea (Setophaga cerulea)**
+40.	**Chlorophonia musica (Euphonia musica)**
+41.	**Coclí o Bandurria Aliblanca (Theristicus caudatus)**
+42.	**Colibrí cola de canela (Amazilia tzacatl)**
+43.	**Colibrí coliazul o verdiazul (Colibri thalassinus)**
+44.	**Colibrí Ermitaño de Yaruqui (Phaethornis yaruqui)**
+45.	**Colibrí Esmeralda Occidental (Chlorostilbon melanorhynchus)**
+46.	**Colibrí gorgipúrpura (Eulampis jugularis)**
+47.	**Colibrí nuquiblanco (Florisuga mellivora)**
+48.	**Colibrí pechinegro (Anthracothorax nigricollis)**
+49.	**Colibrí pechirayado (Heliomaster squamosus)**
+50.	**Colibrí Picudo Coroniazul (Heliomaster longirostris)**
+51.	**Copetón (Zonotrichia capensis)**
+52.	**Cucarachero Común (Troglodytes aedon)**
+53.	**Cucarachero montañero o Montaraz (Troglodytes solstitialis)**
+54.	**Cucarachero Pechiblanco (Henicorhina leucosticta)**
+55.	**Cuclillo Enano (Coccycua pumila)**
+56.	**Cuco cenizo o Cuclillo chico (Coccyzus cinereus)**
+57.	**Cuclillo Pico Amarillo (Coccyzus americanus)**
+58.	**Cuco sin-fin (Tapera naevia)**
+59.	**Curruca capita negra (Sylvia atricapilla)**
+60.	**Dacnis Turquesa (Dacnis hartlaubi)**
+61.	**Elaenia flavogaster (Elaenia flavogaster)**
+62.	**Elaenia oscura (Elaenia obscura)**
+63.	**Elenia Copetona (Elaenia flavogaster)**
+64.	**Espatulilla Común (Todirostrum cinereum)**
+65.	**Espiguero collarejo o corbatica (Sporophila caerulescens)**
+66.	**Euphonia cabeciazul (Euphonia cyanocephala)**
+67.	**Euphonia coroninaranja (Euphonia saturata)**
+68.	**Euphonia olivigris (Euphonia gouldi)**
+69.	**Euphonia piquigruesa (Euphonia laniirostris)**
+70.	**Euphonia violacea (Euphonia violacea)**
+71.	**Eufonia Maquillada (Euphonia chrysopasta)**
+72.	**Gallina ciega (Nyctidromus albicollis)**
+73.	**Gallinazo común o Buitre negro americano (Coragyps atratus)**
+74.	**Garcilla bueyera (Bubulcus ibis)**
+75.	**Garrapatero (Crotophaga ani)**
+76.	**Gavilán gris lineado (Buteo nitidus)**
+77.	**Gavilán negro (Buteo albonotatus)**
+78.	**Gavilán Pigua o Caracara o Chimachima (Milvago chimachima)**
+79.	**Gavilán pollero o caminero (Rupornis magnirostris)**
+80.	**Gavilán Príncipe (Morphnarchus princeps)**
+81.	**Gavilancito Perlado (Gampsonyx swainsonii)**
+82.	**Gavilán Saraviado (Buteo platypterus)**
+83.	**Golondrina Blanquiazul (Pygochelidon cyanoleuca)**
+84.	**Golondrina común (Hirundo rustica)**
+85.	**Golondrina Gorgirubia o Barranquera (Stelgidopteryx ruficollis)**
+86.	**Halcón caracara o Carancho (Caracara plancus)**
+87.	**Ibis Afeitado o Coquito (Phimosus infuscatus)**
+88.	**Jilguero andino (Spinus spinescens)**
+89.	**Jilguero dominico o aliblanco (Spinus psaltria)**
+90.	**Jilguero pechinegro o ventriamarillo (Spinus xanthogastrus)**
+91.	**Lora aliroja o ojiblanca (Amazona leucocephala)**
+92.	**Lora cabeciazul (Pionus menstruus)**
+93.	**Loro Alibronceado o Maicera (Amazona ochrocephala)**
+94.	**María mulata o Mirlo negro de cola larga (Quiscalus mexicanus)**
+95.	**Martín pescador (Megaceryle torquata)**
+96.	**Mielero verde (Chlorophanes spiza)**
+97.	**Mirla blanca tropical (Mimus gilvus)**
+98.	**Mirla Colorada o de páramo (Turdus fuscater)**
+99.	**Mirla embarradora o de pico negro (Turdus ignobilis)**
+100.	**Mirla Parda (Turdus grayi)**
+101.	**Mochuelo o semillero gris (Sporophila intermedia)**
+102.	**Mosquerito caridorado o Tiranuelo cejiamarillo (Zimmerius chrysops)**
+103.	**Mosquero o Atrapamoscas Pirata (Legatus leucophaius)**
+104.	**Pájaro bruja (Nyctibius griseus)**
+105.	**Paloma Cabeza Gris o Tórtola Cabeciazul (Leptotila plumbeiceps)**
+106.	**Paloma Morada (Patagioenas flavirostris)**
+107.	**Pava de monte o Pava Caucana (Penelope perspicax)**
+108.	**Periquito de Anteojos o Cotorrita aliazul (Forpus conspicillatus)**
+109.	**Pibí Tropical (Contopus cinereus)**
+110.	**Picogordo degollado (Pheucticus ludovicianus)**
+111.	**Picogrueso de brissonii (Cyanoloxia brissonii)**
+112.	**Picolezna rojizo o xenops estriado (Xenops rutilans)**
+113.	**Pijuí plomizo (Synallaxis spixi)**
+114.	**Piojito tiquitiqui (Zimmerius gracilipes)**
+115.	**Piranga escarlata (Piranga olivacea)**
+116.	**Piranga roja o abejera (Piranga rubra)**
+117.	**Rascón de cuello gris (Aramides cajaneus)**
+118.	**Reinita amarilla (Setophaga petechia)**
+119.	**Reinita castaña (Setophaga castanea)**
+120.	**Reinita cejiblanca (Myiothlypis leucoblephara)**
+121.	**Reinita Coronidorada (Setophaga coronata)**
+122.	**Reinita Dorsiverde (Setophaga virens)**
+123.	**Reinita de tennessee o chipe peregrino (Leiothlypis peregrina)**
+124.	**Reinita Enmascarada (Geothlypis aequinoctialis)**
+125.	**Reinita gorginaranja (Setophaga fusca)**
+126.	**Reinita Mielera (Coereba flaveola)**
+127.	**Saltador Pepitero alinegro (Saltator atripennis)**
+128.	**Saltador Pepitero Antillano (Saltator albicollis)**
+129.	**Saltapared Común Sureño (Cistothorus platensis)**
+130.	**Saltarín de alas verdes o Pepitero Verdoso (Saltator maximus)**
+131.	**Saltarín listado o rayado o estriado (Machaeropterus regulus)**
+132.	**Semillero Azul (Amaurospiza concolor)**
+133.	**Semillero o Saltarín negriazul (Volatinia jacarina)**
+134.	**Semillero Ladrillo (Sporophila minuta)**
+135.	**Semillero oscuro (Sporophila luctuosa)**
+136.	**Semillero pardo (Asemospiza obscura)**
+137.	**Semillero Picón (Sporophila maximiliani)**
+138.	**Semillero Pizarroso (Sporophila schistacea)**
+139.	**Semillero sabanero (Sporophila congolensis)**
+140.	**Semillero tomeguín ocariamarillo (Tiaris olivaceus)**
+141.	**Semillero variable (Sporophila corvina)**
+142.	**Semillero ventriamarillo (Sporophila nigricollis)**
+143.	**Sinsonte (Mimus polyglottos)**
+144.	**Sirirí blanco o Tirano oriental (Tyrannus tyrannus)**
+145.	**Sirirí bueyero o Picabuey (Machetornis rixosa)**
+146.	**Sirirí común (Tyrannus melancholicus)**
+147.	**Sirirí Rayado (Myiodynastes maculatus)
+148.	**Soledad o Cuco Ardilla (Piaya cayana)**
+149.	**Sorzal Piquinaranja o Tordo Pico De Oro (Catharus aurantiirostris)**
+150.	**Sporophila Funerea (Sporophila funerea)**
+151.	**Tángara cenicienta (Thraupis episcopus)**
+152.	**Tángara de lentejuelas o Tángara berlina (Tángara nigroviridis)**
+153.	**Tángara dorada (Tángara arthus)**
+154.	**Tángara gyrola o cabecirufa (Tángara gyrola)**
+155.	**Tángara Multicolor (Tángara multicolor)**
+156.	**Tángara Rastrojera o vitriolina (Tángara vitriolina)**
+157.	**Tángara Real (Tángara cyanicollis)**
+158.	**Tinamú chico (Crypturellus soui)**
+159.	**Tiranuelo silbador (Camptostoma obsoletum)**
+160.	**Toche Enjalmado o Tángara flamígera (Ramphocelus flammigerus)**
+161.	**Toche pico de plata (Ramphocelus dimidiatus)**
+162.	**Toche Negro o Sangre de toro apagado (Ramphocelus carbo)**
+163.	**Tórtola cabecigris (Leptotila plumbeiceps)**
+164.	**Tórtola diminuta (Columbina minuta)**
+165.	**Tórtola grande o Torcaza Nagüiblanca (Zenaida auriculata)**
+166.	**Tortolita común de Pico Rojo (Columbina talpacoti)**
+167.	**Tortolita Rojiza (Columbina talpacoti)**
+168.	**Trepatroncos cabecirayado (Lepidocolaptes souleyetii)**
+169.	**Turpial amarillo o Gonzalito (Icterus nigrogularis)**
+170.	**Turpial cabecirrojo (Amblyramphus holosericeus)**
+171.	**Turpial Montañero (Icterus chrysater)**
+172.	**Verderón Montañero (Spinus spinescens)**
+173.	**Vireo Ojirrojo o Chiví (Vireo olivaceus)**
+174.	**Vireo verdiamarillo (Vireo flavoviridis)**
+175.	**Zorzal de Anteojos (Catharus ustulatus)**
+176.	**Vencejo Collar Blanco o collarejo (Streptoprocne zonaris)**
+177.	**Sirirí Tijereta (Tyrannus savana)**: Details about the species...
 ...  
-175. **Vencejo Collar Blanco (Streptoprocne zonaris)**: Details about the species...
